@@ -42,9 +42,6 @@
       "target": "plugin::users-permissions.user",
       "inversedBy": "blogs"
     },
-    "writer": {
-      "type": "string"
-    },
     "quote": {
       "type": "string"
     }
